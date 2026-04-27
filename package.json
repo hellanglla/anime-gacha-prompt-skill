@@ -1,0 +1,37 @@
+{
+  "name": "anime-gacha-prompt-skill",
+  "version": "1.0.0",
+  "description": "Generate high-quality AI art prompts for anime gacha game characters, optimized for ChatGPT Image2",
+  "keywords": [
+    "ai-art",
+    "anime",
+    "gacha",
+    "prompt-generator",
+    "chatgpt",
+    "image-generation",
+    "skill",
+    "claude-code",
+    "codex",
+    "cursor"
+  ],
+  "author": "hellanglla",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hellanglla/anime-gacha-prompt-skill.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hellanglla/anime-gacha-prompt-skill/issues"
+  },
+  "homepage": "https://github.com/hellanglla/anime-gacha-prompt-skill#readme",
+  "files": [
+    "SKILL.md",
+    "references/",
+    "examples/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
