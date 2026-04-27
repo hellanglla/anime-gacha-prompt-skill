@@ -4,7 +4,23 @@
 > 
 > 将简短的角色描述转化为可直接用于 ChatGPT Image2 的高质量正反提示词，同时兼容 Midjourney / Stable Diffusion。
 
+<p align="center">
+  <img src="assets/character-profile-ui.png" alt="暗黑幻想角色图鉴 UI 预览" width="900">
+</p>
+
 ---
+
+## 效果预览
+
+<p align="center">
+  <img src="assets/character-preview-ui.png" alt="角色预览 UI" width="48%">
+  <img src="assets/side-pose-profile-ui.png" alt="侧躺姿势角色详情 UI" width="48%">
+</p>
+
+<p align="center">
+  <img src="assets/character-reference-sheet.png" alt="角色四视图设定展示" width="48%">
+  <img src="assets/character-profile-ui.png" alt="完整角色图鉴界面" width="48%">
+</p>
 
 ## 这是什么？
 
@@ -37,6 +53,11 @@
 │   ├── 不洁修女_V3.5_修复版.md        ← 侧躺回眸姿势修复示例
 │   ├── 不洁修女_提示词_v3.4.md        ← v3.4九区块格式示例
 │   └── 恶堕修女_三UI类型提示词.md     ← 抽卡/图鉴/立绘三UI对比示例
+├── assets/                            ← README 预览图片
+│   ├── character-profile-ui.png
+│   ├── character-preview-ui.png
+│   ├── side-pose-profile-ui.png
+│   └── character-reference-sheet.png
 ├── archive/                           ← 历史版本
 │   ├── 系统提示词_打包版_v3.3.md
 │   ├── 系统提示词_打包版_v3.4.md
