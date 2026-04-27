@@ -1,8 +1,8 @@
 # 二游AI绘画提示词生成器
 
-> **专为 ChatGPT Image2（GPT-4o with image generation）优化设计的二次元手游角色AI绘画提示词生成系统。**
+> **专为 ChatGPT Image2优化设计的二次元手游角色AI绘画提示词生成系统。**
 > 
-> 将简短的角色描述转化为可直接用于 ChatGPT Image2 的高质量正反提示词，同时兼容 Midjourney / Stable Diffusion。
+> 将简短的角色描述转化为可直接用于 ChatGPT Image2 的高质量正反提示词
 
 <p align="center">
   <img src="assets/character-profile-ui.png" alt="暗黑幻想角色图鉴 UI 预览" width="900">
