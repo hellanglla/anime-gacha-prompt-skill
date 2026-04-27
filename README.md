@@ -22,6 +22,18 @@
   <img src="assets/character-profile-ui.png" alt="完整角色图鉴界面" width="48%">
 </p>
 
+### 召唤界面示例
+
+<p align="center">
+  <img src="assets/gacha-abyss-queen-banner.png" alt="深渊女皇召唤界面" width="48%">
+  <img src="assets/gacha-redemption-nun-banner.png" alt="神罚修女召唤界面" width="48%">
+</p>
+
+<p align="center">
+  <img src="assets/gacha-divine-awakening-banner.png" alt="神域神女召唤界面" width="48%">
+  <img src="assets/gacha-fallen-demon-banner.png" alt="恶堕魔女召唤界面" width="48%">
+</p>
+
 ## 这是什么？
 
 一个专门为**二次元手游角色AI绘画**设计的提示词生成系统，针对 **ChatGPT Image2** 的中英文混合生图特性深度优化。
@@ -57,7 +69,11 @@
 │   ├── character-profile-ui.png
 │   ├── character-preview-ui.png
 │   ├── side-pose-profile-ui.png
-│   └── character-reference-sheet.png
+│   ├── character-reference-sheet.png
+│   ├── gacha-abyss-queen-banner.png
+│   ├── gacha-redemption-nun-banner.png
+│   ├── gacha-divine-awakening-banner.png
+│   └── gacha-fallen-demon-banner.png
 ├── archive/                           ← 历史版本
 │   ├── 系统提示词_打包版_v3.3.md
 │   ├── 系统提示词_打包版_v3.4.md
